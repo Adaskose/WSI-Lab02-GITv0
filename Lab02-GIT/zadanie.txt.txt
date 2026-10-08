@@ -1,1 +1,3 @@
 Name : Adam Grelewski
+University : PJATK
+Student id : s36920
